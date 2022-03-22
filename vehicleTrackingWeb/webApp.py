@@ -1,4 +1,3 @@
-from concurrent.futures import thread
 from msilib.schema import Icon
 from sqlite3 import connect
 from django.shortcuts import render
