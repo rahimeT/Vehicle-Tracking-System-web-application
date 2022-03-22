@@ -1,0 +1,266 @@
+[
+  {
+    "Time": "19:30",
+    "Latitude": "59,4057",
+    "Longtitude": "17,9647",
+    "vehicleId": 1
+  },
+  {
+    "Time": "19:33",
+    "Latitude": "59,4063",
+    "Longtitude": "17,9653",
+    "vehicleId": 1
+  },
+  {
+    "Time": "19:38",
+    "Latitude": "59,4072",
+    "Longtitude": "17,9655",
+    "vehicleId": 1
+  },
+  {
+    "Time": "19:40",
+    "Latitude": "59,4077",
+    "Longtitude": "17,9659",
+    "vehicleId": 1
+  },
+  {
+    "Time": "19:44",
+    "Latitude": "59,4083",
+    "Longtitude": "17,9663",
+    "vehicleId": 1
+  },
+  {
+    "Time": "19:49",
+    "Latitude": "59,4089",
+    "Longtitude": "17,9669",
+    "vehicleId": 1
+  },
+  {
+    "Time": "19:52",
+    "Latitude": "59,4092",
+    "Longtitude": "17,9672",
+    "vehicleId": 1
+  },
+  {
+    "Time": "19:55",
+    "Latitude": "59,4099",
+    "Longtitude": "17,9676",
+    "vehicleId": 1
+  },
+  {
+    "Time": "19:57",
+    "Latitude": "59,4103",
+    "Longtitude": "17,9679",
+    "vehicleId": 1
+  },
+  {
+    "Time": "20:00",
+    "Latitude": "59,4107",
+    "Longtitude": "17,9683",
+    "vehicleId": 1
+  },
+  {
+    "Time": "07:20",
+    "Latitude": "59,5095",
+    "Longtitude": "17,7552",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:23",
+    "Latitude": "59,5099",
+    "Longtitude": "17,7558",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:25",
+    "Latitude": "59,5103",
+    "Longtitude": "17,7561",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:29",
+    "Latitude": "59,5105",
+    "Longtitude": "17,7564",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:32",
+    "Latitude": "59,5109",
+    "Longtitude": "17,7569",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:34",
+    "Latitude": "59,5111",
+    "Longtitude": "17,7572",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:37",
+    "Latitude": "59,5115",
+    "Longtitude": "17,7575",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:39",
+    "Latitude": "59,5119",
+    "Longtitude": "17,7577",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:43",
+    "Latitude": "59,5125",
+    "Longtitude": "17,7581",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:48",
+    "Latitude": "59,5127",
+    "Longtitude": "17,7586",
+    "vehicleId": 2
+  },
+  {
+    "Time": "07:50",
+    "Latitude": "59,5131",
+    "Longtitude": "17,7592",
+    "vehicleId": 2
+  },
+  {
+    "Time": "10:50",
+    "Latitude": "59,4855",
+    "Longtitude": "18,286",
+    "vehicleId": 3
+  },
+  {
+    "Time": "10:54",
+    "Latitude": "59,4859",
+    "Longtitude": "18,2863",
+    "vehicleId": 3
+  },
+  {
+    "Time": "10:57",
+    "Latitude": "59,4863",
+    "Longtitude": "18,2869",
+    "vehicleId": 3
+  },
+  {
+    "Time": "11:00",
+    "Latitude": "59,4865",
+    "Longtitude": "18,2872",
+    "vehicleId": 3
+  },
+  {
+    "Time": "11:01",
+    "Latitude": "59,4867",
+    "Longtitude": "18,2875",
+    "vehicleId": 3
+  },
+  {
+    "Time": "11:04",
+    "Latitude": "59,4872",
+    "Longtitude": "18,2879",
+    "vehicleId": 3
+  },
+  {
+    "Time": "11:12",
+    "Latitude": "59,489",
+    "Longtitude": "18,2892",
+    "vehicleId": 3
+  },
+  {
+    "Time": "11:15",
+    "Latitude": "59,4896",
+    "Longtitude": "18,2896",
+    "vehicleId": 3
+  },
+  {
+    "Time": "11:17",
+    "Latitude": "59,49",
+    "Longtitude": "18,2901",
+    "vehicleId": 3
+  },
+  {
+    "Time": "11:19",
+    "Latitude": "59,4905",
+    "Longtitude": "18,2905",
+    "vehicleId": 3
+  },
+  {
+    "Time": "11:20",
+    "Latitude": "59,4906",
+    "Longtitude": "18,2908",
+    "vehicleId": 3
+  },
+  {
+    "Time": "23:45",
+    "Latitude": "59,3467",
+    "Longtitude": "18,0307",
+    "vehicleId": 4
+  },
+  {
+    "Time": "23:47",
+    "Latitude": "59,3472",
+    "Longtitude": "18,0309",
+    "vehicleId": 4
+  },
+  {
+    "Time": "23:50",
+    "Latitude": "59,3477",
+    "Longtitude": "18,0315",
+    "vehicleId": 4
+  },
+  {
+    "Time": "23:53",
+    "Latitude": "59,3481",
+    "Longtitude": "18,0319",
+    "vehicleId": 4
+  },
+  {
+    "Time": "23:55",
+    "Latitude": "59,3484",
+    "Longtitude": "18,0324",
+    "vehicleId": 4
+  },
+  {
+    "Time": "23:59",
+    "Latitude": "59,3492",
+    "Longtitude": "18,0328",
+    "vehicleId": 4
+  },
+  {
+    "Time": "00:00",
+    "Latitude": "59,3496",
+    "Longtitude": "18,0333",
+    "vehicleId": 4
+  },
+  {
+    "Time": "00:06",
+    "Latitude": "59,3499",
+    "Longtitude": "18,0338",
+    "vehicleId": 4
+  },
+  {
+    "Time": "00:08",
+    "Latitude": "59,3503",
+    "Longtitude": "18,0341",
+    "vehicleId": 4
+  },
+  {
+    "Time": "00:11",
+    "Latitude": "59,3507",
+    "Longtitude": "18,0344",
+    "vehicleId": 4
+  },
+  {
+    "Time": "00:14",
+    "Latitude": "59,3512",
+    "Longtitude": "18,0349",
+    "vehicleId": 4
+  },
+  {
+    "Time": "00:15",
+    "Latitude": "59,3516",
+    "Longtitude": "18,0353",
+    "vehicleId": 4
+  }
+]

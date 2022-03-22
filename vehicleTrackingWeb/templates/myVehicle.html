@@ -1,0 +1,34 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+{% if data %}
+<br><br><br>
+<table class="table table-hover table-dark">
+    <thead>
+      <tr>
+        <th scope="col">Araç Id</th>
+        <th scope="col">Araç Sahibi</th>
+        <th scope="col"></th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for i in data %}
+      <tr>
+          <td scope = "row">{{data[i]}}</td>
+          <td scope = "row">{{session["username"]}}</td>
+          <td> <a href="/map/{{data[i]}}" class = "btn btn-success">Haritada Göster</a> </td>
+          <td> <a href="/delete/{{data[i]}}"class = "btn btn-danger" >Aracı Sil</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+
+{% else %}
+
+<div class = "alert alert-danger"> Araç Verisine Ulaşılmadı</div>
+
+
+{% endif %}
+{% endblock  %}
